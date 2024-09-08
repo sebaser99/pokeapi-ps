@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+html {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+  background: linear-gradient(95deg, #F5C300, #F76C6C, #4A90E2);
+  // /* #F5C300 es un amarillo brillante como el de Pikachu
+  //    #E02A28 es un rojo intenso como el de Charizard
+  //    #0053D6 es un azul profundo como el de Squirtle */
+  // background: radial-gradient(circle at center, #ffffff 50%, #000000 51%);
+}
